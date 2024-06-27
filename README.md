@@ -1,3 +1,5 @@
+## New Public Pegascape DNS: 141.148.246.60
+
 <p align="center">
   <a href=https://pegascape.sdsetup.com"><img src=https://i.imgur.com/H9ZLk33.png></a>
                                         </p>
